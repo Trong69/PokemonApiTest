@@ -1,2 +1,11 @@
 5/6/2024
 Repository is like gateway to the Databases, talk to db and get data from backend request
+6 6
+ dto: represent model without all their attribute. Use for calling api (for submit data or return data)
+ new structure way when coding service
+Add a service interface, then create a service implement for that interface
+interface help putting the service to the controller
+9 6
+mapper: map object to become dto object or reverse
+stream: java way of doing for loop (but better for java)
+
