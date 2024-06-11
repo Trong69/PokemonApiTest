@@ -8,4 +8,9 @@ interface help putting the service to the controller
 9 6
 mapper: map object to become dto object or reverse
 stream: java way of doing for loop (but better for java)
+11 6
+use git pull origin develop (branch name to fetch new change. No need to merge to main. Merge
+if when you want to make change final.)
+
+Missing Repository. Need recheck
 
