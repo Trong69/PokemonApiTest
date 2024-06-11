@@ -10,6 +10,8 @@ mapper: map object to become dto object or reverse
 stream: java way of doing for loop (but better for java)
 11 6
 use git pull origin develop (branch name to fetch new change). Still need to push new change after commit
+Need commit, need push but don't need merge. Merge when want to update main to be up to date with current
+develop branch.
 
 Missing Repository. Need recheck
 
