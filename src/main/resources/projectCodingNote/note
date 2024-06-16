@@ -6,6 +6,12 @@ Repository is like gateway to the Databases, talk to db and get data from backen
 Add a service interface, then create a service implement for that interface
 interface help putting the service to the controller
 9 6
-mapper: map object to become dto object or reverse
+mapper: make object to become dto object or reverse
 stream: java way of doing for loop (but better for java)
+11 6
+use git pull origin develop (branch name to fetch new change). Still need to push new change after commit
+Need commit, need push but don't need merge. Merge when want to update main to be up to date with current
+develop branch.
+
+Missing Repository. Need recheck
 
