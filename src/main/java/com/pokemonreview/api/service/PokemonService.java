@@ -6,5 +6,5 @@ import java.util.List;
 
 public interface PokemonService {
     PokemonDto createPokemon (PokemonDto pokemonDto);
-    List<Pokemon> getAllPokemon();
+    List<PokemonDto> getAllPokemon();
 }
