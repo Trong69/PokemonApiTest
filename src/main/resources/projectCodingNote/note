@@ -14,4 +14,6 @@ Need commit, need push but don't need merge. Merge when want to update main to b
 develop branch.
 
 Missing Repository. Need recheck
+19 6
+Default exception is 500 error code, need to handle exception to know what error
 
